@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<!-- I'm a graduate student at the University of Toronto, using machine learning techniques to study Atmospheric Physics
+I'm a geospatial analyst @trove-research
 
-- I’m currently working on using a Deep Learning model to predict summertime tropospheric ozone over the United States
-- I’m currently learning Python+GIS, ML + MLOps & Applied Statistics (to climate data) -->
+Well-versed in climate and time series analysis using Xarray + Dask, working with big datasets. Experienced with AWS.
 
-<!-- Checkout my portfolio here: [apurba-biswas.github.io](https://apurba-biswas.github.io/) -->
+Interested in all things climate, Python + GIS
+
+Checkout my portfolio here: [apurba-biswas.github.io](https://apurba-biswas.github.io/)
+
